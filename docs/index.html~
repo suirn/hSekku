@@ -190,27 +190,27 @@
 						</div>
 					</div>
 
-					<!-- <div class="row"> -->
+					<div class="row">
 
-					<!--   <div class="6u 12u(narrower)"> -->
+					  <div class="6u 12u(narrower)">
 
-					<!-- 		<section class="box special"> -->
-					<!-- 		  <span class="image featured"> -->
-					<!-- 		    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3278.1195857708535!2d137.9173773504638!3d34.752580287850286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601ae4cd7441a523%3A0x74b1c1b795fc0d30!2z44CSNDM3LTAwNjMg6Z2Z5bKh55yM6KKL5LqV5biC55Sw55S677yS5LiB55uu77yU4oiS77yR77yV!5e0!3m2!1sja!2sjp!4v1484675878909" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> -->
-					<!-- 		  </span> -->
-					<!-- 			<h3>四季の庵　宮本</h3> -->
-					<!-- 			<p>磐田市のとなりの袋井市にある和食屋さんです。まるたまの写真屋さんも場所は袋井になります。</p> -->
-					<!-- 			<p>437-0063 -->
-					<!-- 			  <br />静岡県袋井市田町2丁目4-15 -->
-					<!-- 			</p> -->
-					<!-- 			<p>TEL: 0538-44-0414</p> -->
-					<!-- 			<\!-- <ul class="actions"> -\-> -->
-					<!-- 			<\!-- 	<li><a href="#" class="button alt">Learn More</a></li> -\-> -->
-					<!-- 			<\!-- </ul> -\-> -->
-					<!-- 		</section> -->
+							<section class="box special">
+							  <span class="image featured">
+							    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3278.1195857708535!2d137.9173773504638!3d34.752580287850286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601ae4cd7441a523%3A0x74b1c1b795fc0d30!2z44CSNDM3LTAwNjMg6Z2Z5bKh55yM6KKL5LqV5biC55Sw55S677yS5LiB55uu77yU4oiS77yR77yV!5e0!3m2!1sja!2sjp!4v1484675878909" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+							  </span>
+								<h3>四季の庵　宮本</h3>
+								<p>磐田市のとなりの袋井市にある和食屋さんです。まるたまの写真屋さんも場所は袋井になります。</p>
+								<p>437-0063
+								  <br />静岡県袋井市田町2丁目4-15
+								</p>
+								<p>TEL: 0538-44-0414</p>
+								<!-- <ul class="actions"> -->
+								<!-- 	<li><a href="#" class="button alt">Learn More</a></li> -->
+								<!-- </ul> -->
+							</section>
 
-					<!--   </div> -->
-					<!-- </div> -->
+					  </div>
+					</div>
 
 					
 				</section>
